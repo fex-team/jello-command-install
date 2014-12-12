@@ -1,0 +1,26 @@
+{
+  "name": "jello-command-install",
+  "version": "0.1.0",
+  "description": "jello install components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fex-team/jello-command-install.git"
+  },
+  "keywords": [
+    "jello",
+    "components"
+  ],
+  "author": "fis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fex-team/jello-command-install/issues"
+  },
+  "homepage": "https://github.com/fex-team/jello-command-install",
+  "dependencies": {
+    "fis-command-install": "~0.1.0"
+  }
+}
